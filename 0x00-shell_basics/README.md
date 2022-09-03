@@ -1,1 +1,1 @@
-A script that lists all the fileseven the ones beginning with period
+a script that lists all files even the ones which are normally hidden
