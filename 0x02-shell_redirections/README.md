@@ -1,1 +1,1 @@
-A shell script that create a file
+a script that writes into filels_cwd_content
